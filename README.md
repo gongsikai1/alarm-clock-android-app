@@ -8,6 +8,15 @@ An Android alarm clock that plays any audio from a folder you pick, with multipl
 
 ---
 
+## 下载安装 · Download
+
+- **最新安装包 v1.4**（debug 签名，约 102 KB）：
+  https://github.com/gongsikai1/alarm-clock-android-app/raw/main/apk/alarm-clock-v1.4.apk
+- 安装：手机浏览器打开链接下载 → 系统提示时允许「安装未知来源应用」→ 点击安装
+- 兼容：Android 7.0（API 24）及以上
+
+---
+
 ## 中文文档
 
 ### 功能概览

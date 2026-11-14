@@ -19,3 +19,7 @@ local.properties
 *.aab
 *.ap_
 *.dex
+
+# 允许仓库内的分发安装包
+!apk/
+!apk/*.apk
